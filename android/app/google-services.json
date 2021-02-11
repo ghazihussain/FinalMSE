@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805430639081",
+    "project_id": "finalpaper-affd8",
+    "storage_bucket": "finalpaper-affd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805430639081:android:0714646f012d103a247378",
+        "android_client_info": {
+          "package_name": "com.finalpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805430639081-up214vcdrr1le8852avh2ddqhvt14caj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIs7apHlJ0IxMxnl-MzQL1kd4K9BJB96Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805430639081-up214vcdrr1le8852avh2ddqhvt14caj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
